@@ -2,9 +2,12 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc2dG10MHp0amMxeDg1bnJ4NDJlb3M4YzR6aDJvMWtucnNlZnBkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BMJVBbow2MTIGtRBqQ/giphy.gif" width="100"/>
 </div>
 <h1>
-  Work in progress)))
+  Work in Progress
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <i>Because learning never stops.</i>
+</div>
 
 :woman_technologist: About me :
 - :computer: Software Engineer.
